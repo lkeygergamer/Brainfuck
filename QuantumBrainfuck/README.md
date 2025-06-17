@@ -29,4 +29,3 @@ bfpy quantum_brainfuck.bf
 
 ---
 
-Digite **"continuar"** para seguir com a documentação, explicações e exemplos! 
