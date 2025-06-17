@@ -25,4 +25,3 @@ Qualquer comando que mexe na fita pode ser visto como o "ato de observar", mudan
 
 **Nota:** Nada aqui é quântico de verdade, mas tudo é diversão garantida!
 
-Digite **"continuar"** para adicionar exemplos, scripts extras ou mais loucuras quânticas! 
